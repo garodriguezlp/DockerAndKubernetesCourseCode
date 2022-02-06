@@ -1,5 +1,9 @@
 # linode-cli
 
+## Install CLI
+
+    $ pip3 install linode-cli --upgrade
+
 ## Create the cluster
 
     $ linode-cli lke cluster-create \
